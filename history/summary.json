@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1125,
-    "timeDay": 1125,
-    "timeWeek": 1125,
-    "timeMonth": 1125,
-    "timeYear": 1125,
+    "time": 1035,
+    "timeDay": 1035,
+    "timeWeek": 1035,
+    "timeMonth": 1035,
+    "timeYear": 1035,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/miner-sim.com.ico",
     "slug": "miner-sim",
     "status": "down",
-    "uptime": "64.01%",
-    "uptimeDay": "64.01%",
-    "uptimeWeek": "64.01%",
-    "uptimeMonth": "64.01%",
-    "uptimeYear": "64.01%",
-    "time": 117,
-    "timeDay": 117,
-    "timeWeek": 117,
-    "timeMonth": 117,
-    "timeYear": 117,
-    "dailyMinutesDown": {
-      "2022-12-25": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hostratgeber",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2262,
-    "timeDay": 2262,
-    "timeWeek": 2262,
-    "timeMonth": 2262,
-    "timeYear": 2262,
+    "time": 2098,
+    "timeDay": 2098,
+    "timeWeek": 2098,
+    "timeMonth": 2098,
+    "timeYear": 2098,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 611,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "time": 585,
+    "timeDay": 585,
+    "timeWeek": 585,
+    "timeMonth": 585,
+    "timeYear": 585,
     "dailyMinutesDown": {}
   }
 ]
