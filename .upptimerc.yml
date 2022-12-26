@@ -23,12 +23,10 @@ sites:
     url: https://fuckeddb.club/
   - name: Hydra Media
     url: https://hydra-media.eu
-  - name: Hydra Media
-    url: https://hydra-media.eu
   - name: Webadtopia
     url: https://webadtopia.com/
   - name: Mineable Coins
-    url: https://mineable-coins.net/
+    url: http://mineable-coins.net/
   - name: 123file
     url: https://123file.li/
   - name: v0id.name
