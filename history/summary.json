@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cryptraffic.de.ico",
     "slug": "cryptraffic-de",
     "status": "down",
-    "uptime": "5.76%",
-    "uptimeDay": "5.76%",
-    "uptimeWeek": "5.76%",
-    "uptimeMonth": "5.76%",
-    "uptimeYear": "5.76%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 644,
     "timeDay": 644,
     "timeWeek": 644,
     "timeMonth": 644,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2022-12-26": 0
+      "2022-12-26": 82
     }
   },
   {
@@ -133,18 +133,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/encyclopedia-piratica.org.ico",
     "slug": "ep-org",
     "status": "down",
-    "uptime": "7.77%",
-    "uptimeDay": "7.77%",
-    "uptimeWeek": "7.77%",
-    "uptimeMonth": "7.77%",
-    "uptimeYear": "7.77%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 698,
     "timeDay": 698,
     "timeWeek": 698,
     "timeMonth": 698,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2022-12-26": 0
+      "2022-12-26": 82
     }
   },
   {
@@ -225,18 +225,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mineable-coins.net.ico",
     "slug": "mineable-coins",
     "status": "down",
-    "uptime": "17.68%",
-    "uptimeDay": "17.68%",
-    "uptimeWeek": "17.68%",
-    "uptimeMonth": "17.68%",
-    "uptimeYear": "17.68%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-26": 0
+      "2022-12-26": 82
     }
   },
   {
