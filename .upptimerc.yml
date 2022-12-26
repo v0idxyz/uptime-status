@@ -11,6 +11,28 @@ sites:
     url: https://hostratgeber.de
   - name: Faucettalk
     url: https://www.faucettalk.com/
+  - name: Lamien
+    url: https://lamien.at
+  - name: c2g
+    url: https://c2g.at/
+  - name: cryptraffic.de
+    url: https://cryptraffic.de/
+   - name: EP.org
+    url: https://encyclopedia-piratica.org/
+   - name: FuckedDB.club
+    url: https://fuckeddb.club/  
+   - name: Hydra Media
+    url: https://hydra-media.eu/  
+   - name: Hydra Media
+    url: https://hydra-media.eu/   
+   - name: Webadtopia
+    url: https://webadtopia.com/    
+   - name: Mineable Coins
+    url: https://mineable-coins.net/     
+   - name: 123file
+    url: https://123file.li/    
+   - name: v0id.name
+    url: https://v0id.name/    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
