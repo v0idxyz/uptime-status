@@ -40,18 +40,20 @@
     "url": "https://hostratgeber.de",
     "icon": "https://icons.duckduckgo.com/ip3/hostratgeber.de.ico",
     "slug": "hostratgeber",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2743,
-    "timeDay": 3539,
-    "timeWeek": 2743,
-    "timeMonth": 2743,
-    "timeYear": 2743,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2498,
+    "timeDay": 2850,
+    "timeWeek": 2498,
+    "timeMonth": 2498,
+    "timeYear": 2498,
+    "dailyMinutesDown": {
+      "2022-12-27": 0
+    }
   },
   {
     "name": "Faucettalk",
@@ -124,7 +126,7 @@
     "timeMonth": 689,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2022-12-27": 86,
+      "2022-12-27": 100,
       "2022-12-26": 1434
     }
   },
@@ -145,7 +147,7 @@
     "timeMonth": 708,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2022-12-27": 86,
+      "2022-12-27": 100,
       "2022-12-26": 1434
     }
   },
@@ -209,11 +211,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mineable-coins.net.ico",
     "slug": "mineable-coins",
     "status": "up",
-    "uptime": "27.67%",
-    "uptimeDay": "29.20%",
-    "uptimeWeek": "27.67%",
-    "uptimeMonth": "27.67%",
-    "uptimeYear": "27.67%",
+    "uptime": "28.35%",
+    "uptimeDay": "30.20%",
+    "uptimeWeek": "28.35%",
+    "uptimeMonth": "28.35%",
+    "uptimeYear": "28.35%",
     "time": 590,
     "timeDay": 590,
     "timeWeek": 590,
