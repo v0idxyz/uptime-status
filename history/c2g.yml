@@ -1,7 +1,7 @@
 url: https://c2g.at/
-status: up
-code: 200
-responseTime: 686
-lastUpdated: 2023-10-15T23:05:58.507Z
+status: down
+code: 503
+responseTime: 347
+lastUpdated: 2023-10-16T07:42:34.376Z
 startTime: 2022-12-26T00:05:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
