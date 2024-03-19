@@ -1,7 +1,7 @@
 url: https://hostratgeber.de
-status: up
-code: 200
-responseTime: 1929
-lastUpdated: 2024-03-19T23:07:20.160Z
+status: down
+code: 503
+responseTime: 506
+lastUpdated: 2024-03-19T23:57:23.665Z
 startTime: 2022-12-25T23:44:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
