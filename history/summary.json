@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 387,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 387,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -776,7 +776,7 @@
     "uptime": "92.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.16%",
+    "uptimeMonth": "51.09%",
     "uptimeYear": "92.79%",
     "time": 952,
     "timeDay": 0,
@@ -784,7 +784,7 @@
     "timeMonth": 710,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 387,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -846,7 +846,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 387,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -1219,7 +1219,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lamien.at.ico",
     "slug": "lamien",
     "status": "down",
-    "uptime": "4.75%",
+    "uptime": "4.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1230,7 +1230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 387,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -1606,7 +1606,7 @@
     "uptime": "83.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.16%",
+    "uptimeMonth": "51.09%",
     "uptimeYear": "65.63%",
     "time": 682,
     "timeDay": 0,
@@ -1614,7 +1614,7 @@
     "timeMonth": 3466,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 387,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -1753,15 +1753,15 @@
     "url": "https://cryptraffic.de/",
     "icon": "https://icons.duckduckgo.com/ip3/cryptraffic.de.ico",
     "slug": "cryptraffic-de",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "90.35%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "90.34%",
     "uptimeWeek": "93.12%",
-    "uptimeMonth": "94.79%",
+    "uptimeMonth": "94.82%",
     "uptimeYear": "99.57%",
     "time": 683,
-    "timeDay": 496,
-    "timeWeek": 481,
+    "timeDay": 488,
+    "timeWeek": 480,
     "timeMonth": 495,
     "timeYear": 633,
     "dailyMinutesDown": {
@@ -1788,7 +1788,7 @@
       "2025-01-15": 205,
       "2025-01-14": 34,
       "2025-01-13": 140,
-      "2025-01-12": 35
+      "2025-01-12": 20
     }
   },
   {
@@ -1808,7 +1808,7 @@
     "timeMonth": 0,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 388,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -2158,7 +2158,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 388,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -2542,7 +2542,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 388,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -2926,7 +2926,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 388,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -3310,7 +3310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 388,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -3694,7 +3694,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 388,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -4067,7 +4067,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/v0id.name.ico",
     "slug": "v0id-name",
     "status": "down",
-    "uptime": "51.64%",
+    "uptime": "51.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -4078,7 +4078,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 355,
+      "2025-02-04": 388,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
