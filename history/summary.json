@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tripscout.at.ico",
     "slug": "trip-scout",
     "status": "down",
-    "uptime": "38.35%",
+    "uptime": "38.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 840,
+      "2025-02-21": 872,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-02-21": 840,
+      "2025-02-21": 872,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -773,18 +773,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hostratgeber.de.ico",
     "slug": "hostratgeber",
     "status": "down",
-    "uptime": "90.84%",
+    "uptime": "90.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.08%",
+    "uptimeYear": "88.07%",
     "time": 954,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2025-02-21": 841,
+      "2025-02-21": 872,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -861,7 +861,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 841,
+      "2025-02-21": 872,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -1245,7 +1245,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 841,
+      "2025-02-21": 872,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -1618,7 +1618,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/c2g.at.ico",
     "slug": "c2g",
     "status": "down",
-    "uptime": "81.65%",
+    "uptime": "81.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1629,7 +1629,7 @@
     "timeMonth": 9877,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2025-02-21": 841,
+      "2025-02-21": 872,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -1785,15 +1785,15 @@
     "url": "https://cryptraffic.de/",
     "icon": "https://icons.duckduckgo.com/ip3/cryptraffic.de.ico",
     "slug": "cryptraffic-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "92.17%",
+    "uptimeDay": "92.16%",
     "uptimeWeek": "92.41%",
-    "uptimeMonth": "94.48%",
+    "uptimeMonth": "94.52%",
     "uptimeYear": "99.54%",
     "time": 657,
-    "timeDay": 636,
-    "timeWeek": 582,
+    "timeDay": 634,
+    "timeWeek": 583,
     "timeMonth": 567,
     "timeYear": 625,
     "dailyMinutesDown": {
@@ -1816,8 +1816,7 @@
       "2025-02-05": 151,
       "2025-02-04": 145,
       "2025-02-03": 40,
-      "2025-02-02": 82,
-      "2025-02-01": 18
+      "2025-02-02": 82
     }
   },
   {
@@ -1837,7 +1836,7 @@
     "timeMonth": 0,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2025-02-21": 841,
+      "2025-02-21": 872,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -2187,7 +2186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 841,
+      "2025-02-21": 872,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -2571,7 +2570,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 841,
+      "2025-02-21": 873,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -2955,7 +2954,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 841,
+      "2025-02-21": 873,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -3339,7 +3338,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 841,
+      "2025-02-21": 873,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -3723,7 +3722,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 841,
+      "2025-02-21": 873,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -4107,7 +4106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 841,
+      "2025-02-21": 873,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
